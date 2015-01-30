@@ -4,4 +4,9 @@ Sapcebars is simply HTML, with the addition of three things: inclusions (partial
 
 ### Common commands
 
-``meteor rest`` The reset completely clears out Mongo Database.
+```html
+meteor reset
+``` 
+The reset completely clears out Mongo Database.
+
+### 
