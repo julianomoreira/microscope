@@ -31,4 +31,7 @@ meteor add package_name
 meteor
 ```
 
+### Common commands
+
+`meteor reset` The reset completely clears out Mongo Database.
 
